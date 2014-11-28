@@ -109,6 +109,7 @@ li {
 	height: 64px;
 	opacity: 0.8;
 	margin: 0 auto;
+	margin-bottom: 32px;
 }
 
 .hour_sign {
